@@ -1,2 +1,5 @@
-# music-similarity
-Our chosen final project for CSC380 to explore data processing, visualization, and analysis applied to a real world application.
+# Music Similarity Project
+Our chosen final project for CSC380 (Introduction to Data Science) to explore data processing, visualization, and analysis applied to the real world application of finding songs with similar sounds to that of a given song in a data set.
+You may read more information in the uploaded PDF in this repository.
+
+Authors: Andres Silva-Castellanos and Atul Triplicane
